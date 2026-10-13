@@ -1,0 +1,7 @@
+Operating Systems and Memory Management
+
+An operating system is system software that manages computer hardware and software resources and provides common services for computer programs. The kernel is the core component of an operating system that maintains complete control over everything in the system. Virtual memory is a memory management capability that provides an idealized abstraction of the storage resources that are actually available on a given machine. 
+
+Paging is a memory management scheme by which a computer stores and retrieves data from secondary storage for use in main memory. A page fault occurs when a program attempts to access a block of memory that is not stored in the physical RAM. The translation lookaside buffer is a hardware cache used to reduce the time taken to access a user memory location.
+
+A process is an instance of a computer program that is being executed by one or many threads. In contrast, a thread is the smallest sequence of programmed instructions that can be managed independently by an operating system scheduler. When multiple processes compete for shared system resources without proper synchronization, a deadlock can occur. A semaphore is a synchronization variable used to control access to a common resource by multiple concurrent threads.

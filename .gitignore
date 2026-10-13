@@ -1,0 +1,91 @@
+﻿# ── Virtual Environments ────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# ── Python Bytecode & Caches ─────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ── Distribution / Packaging ─────────────────────────────────────────────────
+dist/
+build/
+*.egg-info/
+*.egg
+MANIFEST
+
+# ── Testing & Coverage ───────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+*.cover
+nosetests.xml
+test-results/
+
+# ── Environment & Secret Files ───────────────────────────────────────────────
+.env
+.env.*
+*.env
+*.secret
+*.key
+*.pem
+secrets.yaml
+secrets.yml
+secrets.json
+
+# ── Type Checking & Linting ──────────────────────────────────────────────────
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.ruff_cache/
+
+# ── Jupyter Notebooks ─────────────────────────────────────────────────────────
+.ipynb_checkpoints/
+*.ipynb
+
+# ── Editor & IDE Artefacts ────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+#*#
+.#*
+*.sublime-project
+*.sublime-workspace
+
+# ── OS-generated Files ────────────────────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ── Streamlit ─────────────────────────────────────────────────────────────────
+.streamlit/secrets.toml
+
+# ── Model Weights & Large Binary Artefacts ────────────────────────────────────
+# Uncomment if you cache downloaded HuggingFace models locally:
+# models/
+# *.bin
+# *.safetensors
+# *.pt
+# *.pth
+
+# ── Exported Output Files (user-generated, not source) ────────────────────────
+outputs/
+*.gift
+*.json.out
+
+# ── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+logs/

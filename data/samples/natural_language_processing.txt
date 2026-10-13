@@ -1,0 +1,7 @@
+Natural Language Processing and Representation Learning
+
+Natural language processing is an interdisciplinary subfield of computer science and artificial intelligence concerned with the interactions between computers and human language. Tokenization is the fundamental preprocessing step of breaking a stream of text into words, phrases, symbols, or other meaningful elements called tokens. 
+
+Word embedding is a term used for the representation of words for text analysis, typically in the form of a real-valued vector that encodes the meaning of the word. The transformer architecture is a deep learning model introduced in 2017 that relies entirely on self-attention mechanisms to compute representations of its input and output without using sequence-aligned recurrent neural networks. 
+
+Self-attention is an attention mechanism relating different positions of a single sequence in order to compute a representation of the sequence. Pretrained language models such as BERT and GPT are trained on vast corpora using masked language modeling and autoregressive language modeling objectives. Fine-tuning is the process of taking a model that has already been trained for a given task and tuning or tweaking the model to perform a second similar task.

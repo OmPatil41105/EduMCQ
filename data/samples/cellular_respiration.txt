@@ -1,0 +1,7 @@
+Cellular Respiration and Bioenergetics
+
+Cellular respiration is a set of metabolic reactions and processes that take place in the cells of organisms to convert chemical energy from nutrients into adenosine triphosphate. Adenosine triphosphate is the organic compound that provides energy to drive many processes in living cells. 
+
+Glycolysis is the metabolic pathway that converts glucose into pyruvate through a sequence of enzyme-catalyzed reactions. The mitochondria is a double-membrane-bound organelle found in most eukaryotic organisms, often described as the powerhouse of the cell. The citric acid cycle takes place inside the mitochondrial matrix and produces high-energy electron carriers such as NADH and FADH2. 
+
+The electron transport chain is a series of protein complexes located in the inner mitochondrial membrane that transfer electrons and pump protons across the gradient. Oxidative phosphorylation is the metabolic pathway in which cells use enzymes to oxidize nutrients, thereby releasing chemical energy used to produce ATP. Without oxygen acting as the terminal electron acceptor, cells must rely on anaerobic fermentation to regenerate NAD+.
